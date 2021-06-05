@@ -1,4 +1,5 @@
-{"musics": [
+{"musics":
+[
   {"title": "nasıl unuturum", "id": "CQACAgIAAx0CTRmAOwADKGC64LHVU1cMCaGxZOUJovcfgZKjAAIuDAACDQXISZZtVx-PELMOHwQ"},
   {"title": "çatı katı", "id": "CQACAgIAAx0CTRmAOwADKmC64LYCXL_rvBMCNJuR3w2ly3xVAAIZEQACoB-ISoElgoLIUme2HwQ"},
   {"title": "haberin yok ölüyorum", "id": "CQACAgIAAx0CTRmAOwADLGC64L2ySD4rvQL97g6b4l5ES89jAAKRCwACpVCRSXHt8uby-_J2HwQ"},
@@ -6,5 +7,5 @@
   {"title": "ben nası büyük adam olucam", "id": "CQACAgIAAx0CTRmAOwADMGC64Mo0NGuUkPah63sQ48rXK2yRAAIlBwACw7dgSuxoMr337u7rHwQ"},
   {"title": "babildeki bahçe", "id": "CQACAgIAAx0CTRmAOwADMmC64NHU8VrmPw9BRY2JP9fhcDx-AALKJwACBBCoSqE3DR-8fm1dHwQ"},
   {"title": "nazaramı geldik", "id": "CQACAgIAAx0CTRmAOwADNGC64N8i0V2k5wiM3SYIrSzOOMV2AAJDDQACYooISr86Tik8JgMWHwQ"}
-         ]
-     }    
+]
+}    
