@@ -7,9 +7,9 @@ app.config["JSON_AS_ASCII"] = False
 # A welcome message to test our server
 @app.route('/')
 def index():
-    with open("Müzikler.json", "r", encoding="UTF-8") as veriler:
-        müzikler = json.load(veriler)
-    return jsonify(müzikler)
+    with open("Filmler.json", "r", encoding="UTF-8") as veriler:
+        filmler = json.load(veriler)
+    return jsonify(filmler)
 
 if __name__ == '__main__':
     # Threaded option to enable multiple instances for multiple user access support
